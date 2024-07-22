@@ -11,7 +11,7 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "10.9.3_19.1.11",
+        "human_version": "10.9.8_19.1.11",
         "version": "19.1.11",
         "chart_metadata": {
             "annotations": {
@@ -21,7 +21,7 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "10.9.3",
+            "appVersion": "10.9.8",
             "dependencies": [
                 {
                     "name": "common",
@@ -5911,7 +5911,7 @@
             "definitions/certificate",
             "definitions/interface"
         ],
-        "human_version": "10.9.3_19.1.10",
+        "human_version": "10.9.8_19.1.10",
         "version": "19.1.10",
         "chart_metadata": {
             "annotations": {
@@ -5921,7 +5921,7 @@
                 "truecharts.org/train": "stable"
             },
             "apiVersion": "v2",
-            "appVersion": "10.9.3",
+            "appVersion": "10.9.8",
             "dependencies": [
                 {
                     "name": "common",
