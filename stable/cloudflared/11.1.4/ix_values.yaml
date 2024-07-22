@@ -1,7 +1,7 @@
 image:
   repository: cloudflare/cloudflared
   pullPolicy: IfNotPresent
-  tag: 2024.5.0@sha256:5d5f70a59d5e124d4a1a747769e0d27431861877860ca31deaad41b09726ca71
+  tag: 2024.6.1@sha256:f6e9fff347602b8e70f1765127abc96f3b8d1af4cc46185913a043edab75ae5b
 workload:
   main:
     podSpec:
